@@ -1,6 +1,6 @@
 {
   "name": "func-utils-ysy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "function utils",
   "main": "index.js",
   "scripts": {
