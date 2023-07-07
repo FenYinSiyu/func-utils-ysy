@@ -1,3 +1,3 @@
-export const sayHello = () => {
+export function sayHello() {
   console.log("hello~");
 }
